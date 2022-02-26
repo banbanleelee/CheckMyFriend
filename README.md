@@ -7,7 +7,7 @@ Imitating the functionality of the famous OP.GG app.
 
 ## Side Note
 ```md
-At the current time, I am still trying to use build a Node.js proxy server to secure the private API key. 
+At the current time, I am still trying to build a Node.js proxy server to secure the private API key. 
 Thus the project is not online yet. 
 Feel free to check out the demo below though! They are all the functions this app provides.
 ```
