@@ -1,4 +1,4 @@
-const key = 'RGAPI-835c9881-0f45-4629-b014-650d86a1adac';
+const key = '';//needs to be hidden before I figure out a way to proxy it
 
 function createSummonerCard() {
     var requestUrl = 'https://na1.api.riotgames.com/lol/summoner/v4/summoners/by-name/'+localStorage.getItem('summoner')+'?api_key='+key;
