@@ -1,7 +1,9 @@
 # CheckMyFriend
 
 ## Overview
-A real-time search engine for League of Legend Players' status.
+A real-time search engine for League of Legend players' account details.
+One search at a time.
+Imitating the functionality of the famous OP.GG app.
 
 ## Side Note
 ```md
